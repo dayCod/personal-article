@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dayCod/personal-article/blob/main/unlocking-laravel-magic-app-resolve-tap/image.jpg?raw=true" alt="Curtain Logo">
+</p>
+
 Laravel, as a modern PHP framework, is packed with hidden gems that make development faster and more elegant. But among these, few features feel more like "magic" than Laravel's app(), resolve(), tap(), and the mysterious __call() magic function. If you’ve ever wondered how Laravel handles dependencies so gracefully behind the scenes, you're about to find out.
 
 In this article, we’ll break down the purpose of these functions, why they exist, and how they empower you to write cleaner, scalable code. Whether you’re collaborating with a startup, a digital agency, or building an enterprise-grade system, mastering Laravel’s service container and helper functions will make you a stronger developer.

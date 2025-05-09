@@ -102,7 +102,6 @@ Keep your critical sections short to avoid deadlocks and performance bottlenecks
 
 Offload time-consuming processes to Laravel queues. Workers can run tasks asynchronously, reducing lock contention.
 
-
 ## Conclusion
 
 Laravel’s magic doesn’t stop at beautiful syntax—it extends deep into safe and scalable concurrency handling. By mastering database locks, cache locks, and now the Laravel 12 `Concurrency::class` facade, you can build apps that are not just elegant but also rock-solid under pressure.
@@ -110,3 +109,10 @@ Laravel’s magic doesn’t stop at beautiful syntax—it extends deep into safe
 So next time you tackle concurrency, remember: Laravel's got your back—and now, so do you.
 
 > "Concurrency is hard, unless you’re using Laravel." — Daycode
+
+## References
+- [Laravel Concurrency Documentation](https://laravel.com/docs/12.x/concurrency#main-content)
+- [Laravel Cache Locks](https://laravel.com/docs/12.x/cache#atomic-locks)
+- [Database Transaction](https://laravel.com/docs/12.x/database#database-transactions)
+- [Queues and Background Jobs](https://laravel.com/docs/12.x/queues)
+- [Laravel 12 Release Notes](https://laravel.com/docs/12.x/releases)

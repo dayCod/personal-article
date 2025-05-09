@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dayCod/personal-article/blob/main/concurrency-made-simple/image.jpg?raw=true" alt="Unlocking Laravel Magic: Concurrency Made Simple">
+</p>
+
 Laravel has always been known for making complex web development tasks feel simple and elegant. But when it comes to concurrency—handling multiple operations at the same time—developers often find themselves scratching their heads. From database locks to race conditions, concurrency can make or break your app’s reliability.
 
 In this article, we’ll dive deep into Laravel's concurrency handling techniques. We’ll explore traditional methods and unlock the new features introduced in Laravel 12, including the powerful Concurrency::class facade. Whether you're building startup MVPs or enterprise systems, mastering concurrency is your next big step.

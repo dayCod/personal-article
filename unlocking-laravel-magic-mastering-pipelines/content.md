@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dayCod/personal-article/blob/main/concurrency-made-simple/image.jpg?raw=true" alt="Unlocking Laravel Magic: Concurrency Made Simple">
+  <img src="https://github.com/dayCod/personal-article/blob/main/unlocking-laravel-magic-mastering-pipelines/image.jpg?raw=true" alt="Unlocking Laravel Magic: Concurrency Made Simple">
 </p>
 
 Laravel is famous for making developers' lives easier with elegant patterns and expressive syntax. But when it comes to building flexible and reusable workflows, many overlook one of Laravel's hidden gems: pipelines. Pipelines help you process data through a series of customizable stages—making your code clean, testable, and easy to maintain.

@@ -72,5 +72,4 @@ So next time you find yourself with chained logic, remember: Laravel pipelines a
 
 ## References
 
-- [Laravel Pipelines Documentation](https://laravel.com/docs/12.x/pipelines)
 - [Illuminate Pipeline Source Code](https://github.com/laravel/framework/blob/12.x/src/Illuminate/Pipeline/Pipeline.php)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dayCod/personal-article/blob/main/concurrency-made-simple/image.jpg?raw=true" alt="Unlocking Laravel Magic: Concurrency Made Simple">
+  <img src="https://github.com/dayCod/personal-article/blob/main/concurrency-made-simple/image.jpg?raw=true" alt="Unlocking Laravel Magic: Mastering Pipelines Easily">
 </p>
 
 Laravel has always been known for making complex web development tasks feel simple and elegant. But when it comes to concurrency—handling multiple operations at the same time—developers often find themselves scratching their heads. From database locks to race conditions, concurrency can make or break your app’s reliability.

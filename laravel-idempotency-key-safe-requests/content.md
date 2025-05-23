@@ -59,5 +59,5 @@ So next time you're building something mission-critical, ask yourself: "Did I La
 
 ## References
 
-- [Idempotency Key Concept](https://github.com/garapdigital/idempotent-transaction)
+- [Idempotency Key Concept](https://github.com/GarapDigital/idempotent-transactions)
 - [Best Practice for API Idempotency](https://docs.stripe.com/api/idempotent_requests)
